@@ -1,10 +1,10 @@
 .hide{
     display: none;
-}
+} 
 
-/* Global Styles */
+Global Styles 
 
-/* * {
+ {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -48,7 +48,7 @@ button:hover {
     background-color: #0069d9;
 }
 
-/* Quiz Styles */
+/* Quiz Styles
 
 .quiz {
     margin-bottom: 40px;
@@ -123,4 +123,4 @@ button:hover {
 .quiz-form button[type="submit"] {
     display: block;
     margin: 0 auto;
-} */
+} 
