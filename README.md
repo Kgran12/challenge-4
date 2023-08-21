@@ -20,4 +20,5 @@ For this challenge created the Javascript to create a short coding quiz that sav
 
 ## Credits
 
-Github_Repo-"https://kgran12.github.io/challenge-3/"
+Github_Repo-"https://kgran12.github.io/challenge-4/"
+screenshot - ![screenshot](./assets/QuizScreenShot.PNG)
